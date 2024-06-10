@@ -17,7 +17,7 @@ Welcome to the **Smart Warehouse Management System** project! This open-source i
 
 - **Frontend**: React.js
 - **Backend**: Rust with Actix-web
-- **Databases**: 
+- **Databases**:
   - Vector DB: Pinecone or Milvus
   - Relational DB: PostgreSQL
 - **Caching**: Redis
@@ -51,19 +51,21 @@ Welcome to the **Smart Warehouse Management System** project! This open-source i
 1. Clone the repository:
    ```sh
    git clone https://github.com/ashishjsharda/smart-warehouse-management.git
+   ```
 2. Navigate to the project directory:
    ```sh
    cd smart-warehouse-management
+   ```
 3. Install frontend dependencies
-  ```sh
-  cd frontend
-  npm install
-  ```
+
+    ```sh
+    cd frontend
+    npm install
+    ```
 
 4. Install backend dependencies:
-```sh
-cd backend
-cargo build
-```
 
-
+    ```sh
+    cd backend
+    cargo build
+    ```
