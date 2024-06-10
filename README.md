@@ -56,14 +56,14 @@ Welcome to the **Smart Warehouse Management System** project! This open-source i
    cd smart-warehouse-management
 3. Install frontend dependencies
   ```sh
-   cd frontend
-   npm install
+  cd frontend
+  npm install
   ```
 
 4. Install backend dependencies:
 ```sh
-   cd backend
-   cargo build
+cd backend
+cargo build
 ```
 
 
